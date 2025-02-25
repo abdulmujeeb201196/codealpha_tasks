@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+bcrypt
+sqlalchemy
+cryptography
+PyJWT
+python-jose[cryptography]
